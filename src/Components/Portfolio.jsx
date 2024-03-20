@@ -32,27 +32,25 @@ const imageAltText = "school buildings";
 const projectList = [
   {
     title: "Daily life on Bilibili",
-    description:
-      "My first step to share creative ideas! You can find different videos whith differe.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    description:"My first step to share creative ideas! You can find different videos.",
+    url: " https://b23.tv/iEmdnz2",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Xiaohongshu",
+    description:"A great app and platfrom to share my daily life!",
+    url: "https://www.xiaohongshu.com/user/profile/5c7494da000000001002b46d?xhsshare=CopyLink&appuid=5c7494da000000001002b46d&apptime=1710948209",
   },
   {
-    title: "My Resume Site",
+    title: "My MLSA Introduction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "You can see my intreduction about Microsoft Learn Student Ambassadors.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/169c3d28-b5ae-48d2-9524-d8231e254df2",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Something interesting in Douyin",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Find some fun here!",
+    url: "https://v.douyin.com/iFXTHnE3/",
   },
 ];
 
